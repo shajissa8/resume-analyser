@@ -1,31 +1,75 @@
 # Resume Analyser
 
-![Documentation](https://img.shields.io/badge/Type-Competitive%20Solutions-blue)
-![Status](https://img.shields.io/badge/Status-Validated%20Submission-brightgreen)
+[![Type](https://img.shields.io/badge/Type-Competitive_Solutions-blue)](https://agent.ai/agent/resume-align)
+[![Status](https://img.shields.io/badge/Status-Validated_Submission-brightgreen)](https://agent.ai/agent/resume-align)
+[![Platform](https://img.shields.io/badge/Platform-Agent.ai-orange)](https://agent.ai/agent/resume-align)
+[![Users](https://img.shields.io/badge/Users-160%2B-lightgrey)](https://agent.ai/agent/resume-align)
 
-Resume Analyzer is a no-code AI workflow project built with Agent.ai that evaluates resumes against job descriptions. It identifies matches, gaps, and provides actionable insights to enhance job applications.
+An agentic, no-code AI workflow built on Agent.ai that evaluates a resume against a job description. It identifies alignment gaps, matches skills and keywords, and generates a structured improvement report — without any local setup required.
+
+**Live agent:** [agent.ai/agent/resume-align](https://agent.ai/agent/resume-align)
+
+---
+
+## How It Works
+
+The agent runs a multi-step AI workflow:
+
+1. **Input** — user uploads or pastes a resume and a job description
+2. **Alignment scoring** — the agent compares skills, keywords, and experience against the JD
+3. **Gap analysis** — identifies missing keywords, underrepresented skills, and weak sections
+4. **Report generation** — outputs a structured improvement report with actionable suggestions
+
+---
+
+## Repository Contents
+
+This repository documents the project and includes supporting visuals.
+
+    resume-analyser/
+    ├── Resume_Analyser_Source_Documentation.pdf   ← full project documentation
+    ├── Prototype submission Template43c7cf4.pptx  ← submission deck
+    ├── input.jpg                                  ← sample input screen (resume + JD upload)
+    ├── alignment_summary.jpg                      ← sample output: alignment score view
+    ├── improvement_suggestions.jpg                ← sample output: suggestions report
+    ├── resume_analyzer_video_demo.mp4             ← full walkthrough demo
+    ├── README.md
+    └── LICENSE
+
+---
 
 ## Features
 
-1. Resume-job alignment scoring.
-2. Skill and keyword matching analysis.
-3. AI-generated improvement reports.
-4. Multi-step user flows for uploads and reviews.
+- Resume-to-job-description alignment scoring
+- Skill and keyword gap identification
+- AI-generated, section-level improvement suggestions
+- Multi-step agentic workflow with no code required
 
-## Technologies Used
+---
 
-1. Platform: Agent.ai (No-Code)
-2. Tools: AI workflows for processing
+## How to Use
 
-## Installation
+No installation or local setup needed.
 
-- No installation; access via Agent.ai platform [Public profile link](https://agent.ai/agent/resume-align)
+1. Go to [agent.ai/agent/resume-align](https://agent.ai/agent/resume-align)
+2. Upload or paste your resume
+3. Upload or paste the job description you are targeting
+4. Run the workflow
+5. Review the alignment summary and improvement report
 
-## Usage
+To view the demo or documentation, open the files in this repository directly.
 
-1. Upload resume and job description.
-2. Run the analysis workflow.
-3. Review the detailed report.
+---
+
+## Technologies
+
+| Component | Tool |
+|---|---|
+| Workflow platform | Agent.ai (no-code agentic AI) |
+| AI processing | Agent.ai built-in LLM workflows |
+| Documentation | PDF, PPTX |
+
+---
 
 ## License
 
