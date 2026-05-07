@@ -13,8 +13,6 @@ An agentic, no-code AI workflow built on Agent.ai that evaluates a resume agains
 
 ## How It Works
 
-The agent runs a multi-step AI workflow:
-
 1. **Input** — user uploads or pastes a resume and a job description
 2. **Alignment scoring** — the agent compares skills, keywords, and experience against the JD
 3. **Gap analysis** — identifies missing keywords, underrepresented skills, and weak sections
@@ -24,17 +22,15 @@ The agent runs a multi-step AI workflow:
 
 ## Repository Contents
 
-This repository documents the project and includes supporting visuals.
-
     resume-analyser/
-    ├── Resume_Analyser_Source_Documentation.pdf   ← full project documentation
-    ├── Prototype submission Template43c7cf4.pptx  ← submission deck
-    ├── input.jpg                                  ← sample input screen (resume + JD upload)
-    ├── alignment_summary.jpg                      ← sample output: alignment score view
-    ├── improvement_suggestions.jpg                ← sample output: suggestions report
-    ├── resume_analyzer_video_demo.mp4             ← full walkthrough demo
-    ├── README.md
-    └── LICENSE
+    ├── Resume_Analyser_Source_Documentation.pdf
+    ├── Prototype submission Template43c7cf4.pptx
+    ├── alignment_summary.jpg
+    ├── improvement_suggestions.jpg
+    ├── input.jpg
+    ├── resume_analyzer_video_demo.mp4
+    ├── LICENSE
+    └── README.md
 
 ---
 
@@ -67,7 +63,7 @@ To view the demo or documentation, open the files in this repository directly.
 |---|---|
 | Workflow platform | Agent.ai (no-code agentic AI) |
 | AI processing | Agent.ai built-in LLM workflows |
-| AI Model | Claude Opus 4.7 |
+| AI Model | Clause Opus 4.7 |
 | Documentation | PDF, PPTX |
 
 ---
