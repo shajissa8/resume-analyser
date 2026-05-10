@@ -63,7 +63,7 @@ To view the demo or documentation, open the files in this repository directly.
 |---|---|
 | Workflow platform | Agent.ai (no-code agentic AI) |
 | AI processing | Agent.ai built-in LLM workflows |
-| AI Model | Clause Opus 4.7 |
+| AI Model | Claude Opus 4.7 |
 | Documentation | PDF, PPTX |
 
 ---
