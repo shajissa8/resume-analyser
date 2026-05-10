@@ -3,7 +3,7 @@
 [![Type](https://img.shields.io/badge/Type-Competitive_Solutions-blue)](https://agent.ai/agent/resume-align)
 [![Status](https://img.shields.io/badge/Status-Validated_Submission-brightgreen)](https://agent.ai/agent/resume-align)
 [![Platform](https://img.shields.io/badge/Platform-Agent.ai-orange)](https://agent.ai/agent/resume-align)
-[![Users](https://img.shields.io/badge/Users-160%2B-lightgrey)](https://agent.ai/agent/resume-align)
+[![Users](https://img.shields.io/badge/Users-160+ (as of May 2026)%2B-lightgrey)](https://agent.ai/agent/resume-align)
 
 An agentic, no-code AI workflow built on Agent.ai that evaluates a resume against a job description. It identifies alignment gaps, matches skills and keywords, and generates a structured improvement report — without any local setup required.
 
